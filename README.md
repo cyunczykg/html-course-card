@@ -1,1 +1,1 @@
-# kurshtml-card
+# htmlcourse-card
